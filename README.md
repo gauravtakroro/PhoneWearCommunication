@@ -18,12 +18,6 @@ This project demonstrates **two-way communication** between an iPhone app and it
 - SwiftUI
 - A paired iPhone + Watch simulator (or real devices)
 
-## 🚀 Getting Started
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/iOS-AppleWatch-SwiftUI-Communication.git
-   cd iOS-AppleWatch-SwiftUI-Communication
-
 Open the project in Xcode.
 
 Run the iOS app on iPhone simulator.
