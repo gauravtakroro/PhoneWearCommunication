@@ -23,3 +23,11 @@ This project demonstrates **two-way communication** between an iPhone app and it
    ```bash
    git clone https://github.com/your-username/iOS-AppleWatch-SwiftUI-Communication.git
    cd iOS-AppleWatch-SwiftUI-Communication
+
+Open the project in Xcode.
+
+Run the iOS app on iPhone simulator.
+
+Run the Watch app on paired Watch simulator.
+
+Send messages back and forth
